@@ -1,0 +1,102 @@
+body {
+    background-color: #121212;
+    color: #e0e0e0;
+    font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+    max-width: 1200px;
+    margin: auto;
+    padding: 2em;
+}
+
+.top-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.left {
+    flex: 1;
+}
+
+.right {
+    flex: 0 0 auto;
+}
+
+h1, h2, h3 {
+    color: #ffffff;
+    border-bottom: 1px solid #333;
+    padding-bottom: 0.3em;
+    margin-top: 1.5em;
+}
+
+h1 {
+    font-size: 2.4em;
+    border-bottom: none;
+}
+
+.headshot {
+    width: 150px;
+    border-radius: 10%;
+    border: 3px solid #313131;
+}
+
+.icon-links {
+    margin-top: 1em;
+}
+
+.contact-icon {
+    width: 32px;
+    height: 32px;
+    margin-right: 12px;
+    vertical-align: middle;
+    transition: transform 0.2s;
+}
+
+.contact-icon:hover {
+    transform: scale(1.2);
+}
+
+ul {
+    padding-left: 1.2em;
+}
+
+li {
+    margin-bottom: 0.5em;
+}
+
+footer.footer {
+  background-color: #121212 !important;
+  color: #e0e0e0 !important;
+  border-top: 1px solid #333;
+  padding: 1em 0;
+  margin-top: 3em;
+  font-size: 0.9em;
+}
+
+.nav-footer {
+  background-color: #121212 !important;  /* override Bootstrap default */
+  color: #e0e0e0 !important;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: baseline;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.nav-footer-left p,
+.nav-footer-right p {
+  margin: 0;
+  color: #e0e0e0 !important;
+}
+
+.nav-footer a {
+  color: #66b2ff !important;
+  text-decoration: none;
+}
+
+.nav-footer a:hover {
+  color: #1e90ff !important;
+}
