@@ -1,0 +1,23 @@
+---
+title: ""
+image: headshot.jpg
+---
+
+<div style="text-align: center;">
+  <img src="headshot.jpg" alt="Grace WL" class="headshot">
+</div>
+
+# Tin Win Lett Moe Naing (Grace Winlett)
+**MBA Candidate \| IT Specialist**
+
+MBA candidate and software developer with 10+ years of experience delivering high-quality solutions across industries. Skilled in cloud computing, software development, process improvement, and team collaboration. Passionate about bridging technology and business to drive innovation, efficiency, and growth.
+
+📄 [Download Resume](resume.pdf)  
+🔗 [LinkedIn](https://www.linkedin.com/in/grace-winlett-62262a55)
+
+
+
+
+
+
+

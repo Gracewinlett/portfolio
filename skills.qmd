@@ -1,0 +1,22 @@
+---
+title: "Skills & Certifications"
+---
+
+## Key Skills
+
+-   **Programming:** ASP.NET, MS SQL, HTML5, CSS, JavaScript, MVC\
+-   **Cloud & Architecture:** AWS, Client/Server\
+-   **Tools:** SVN, GIT, Bitbucket, Jira, Smartsheet, Tableau\
+-   **Project Management:** Agile, Requirements Gathering, Strategic Planning, Timeline Management\
+-   **Soft Skills:** Customer Handling, Networking, Negotiation, Team Leadership, Problem-Solving
+
+------------------------------------------------------------------------
+## Certifications
+
+-   [AWS Academy Graduate - AWS Academy Cloud Foundations](https://www.credly.com/badges/dde90078-8fcc-4e2e-bb6e-981d6067608c/linked_in_profile)\
+-   [Get Started with Tableau Author](https://www.credly.com/badges/cfa88a6f-ecef-4a40-a840-535f5cb1d797/linked_in_profile)\
+-   [Interact with Dashboards and Reports - Tableau](https://www.credly.com/badges/d741b4e0-ac1c-4b5c-b4b6-bd4640ca4dec/linked_in_profile)\
+-   [Financial Accounting - UCW](https://www.credential.net/087b18ec-bd12-4d3c-be11-ba208c06e8a6#acc.Ee5liODJ)\
+-   [Academic Writing Strategies - UCW](https://www.credential.net/437e182d-a98c-4e0d-a103-af4db34d5922#acc.BcFfshx5)\
+-   [Learning for Success Program - UCW](https://www.credential.net/02f74be2-b148-47c0-9ea8-1045587650f4#acc.7FqAKMh4)\
+-   [Strategies For Successful Learning - UCW](https://www.credential.net/f7ead51b-9c28-4271-80f4-10922bad617c#acc.K0bf6dux)

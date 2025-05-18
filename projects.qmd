@@ -1,0 +1,20 @@
+---
+title: "Projects"
+---
+
+------------------------------------------------------------------------
+
+## Projects
+
+**Data Analysis** \| Jan 2025 – Mar 2025\
+*Associated with University Canada West*
+
+This project was part of the final Cloud Computing project at University Canada West.\
+Key contributions:
+
+-   Exploratory data summarization for the Academics Department's Attendance Procedure\
+-   Descriptive analysis on the City of Vancouver’s business license dataset\
+-   Data wrangling for the Academics Department - Attendance Procedure\
+-   Data quality checks on the City of Vancouver’s business license dataset
+
+**Skills:** Cloud Computing, AWS Elastic Beanstalk, AWS Lambda, AWS Glue, AWS S3, Data Profiling, Data Cleaning, AWS ETL, Amazon Athena, AWS IAM, AWS Glue DataBrew, AWS Glue Crawlers, AWS CloudTrail
